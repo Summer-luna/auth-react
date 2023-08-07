@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@Summer-luna",
+    "@Summer-luna:registry": "https://npm.pkg.github.com",
     "access": "public"
   },
   "files": [
