@@ -4,7 +4,8 @@
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@summerluna"
+    "registry": "https://npm.pkg.github.com/@summerluna",
+    "access": "public"
   },
   "files": [
     "dist"
@@ -18,6 +19,7 @@
   "license": "ISC",
   "dependencies": {
     "@nestjs/common": "^10.1.3",
+    "@nestjs/config": "^3.0.0",
     "@nestjs/core": "^10.1.3",
     "@nestjs/graphql": "^12.0.8",
     "@nestjs/jwt": "^10.1.0",
