@@ -1,10 +1,10 @@
 {
-  "name": "@summerluna/auth-react",
+  "name": "@Summer-luna/auth-react",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@summerluna",
+    "registry": "https://npm.pkg.github.com/@Summer-luna",
     "access": "public"
   },
   "files": [
