@@ -6,6 +6,7 @@ on:
       - main
 jobs:
   buld-and-deploy:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - name: checkout to repository
